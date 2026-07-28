@@ -8,20 +8,19 @@ Programme     : B.Sc. Computer Science
 University    : IU International University of Applied Sciences
 Course        : DLBDSPBDM01 - Build a Data Mart in SQL
 Submission    : 2026-07-29
-
 GitHub        : https://github.com/zbr-khn/SQL
 
 
 CONTENTS OF THIS FOLDER
 -----------------------
 
-1. 20250628_Zubair_Khan_92127983_DLBDSPBDM01_P3_Abstract.pdf
+1. 20260729_Zubair_Khan_92127983_DLBDSPBDM01_P3_Abstract.pdf
    - Two-page academic Abstract (Phase 3)
 
 2. 20250628_Zubair_Khan_92127983_DLBDSPBDM01_P1.pdf
    - Phase 1: Requirements Specification, ER Diagram, Data Dictionary
 
-3. 20250628_Zubair_Khan_92127983_DLBDSPBDM01_P2.pdf
+3. 20260410_Zubair_Khan_92127983_DLBDSPBDM01_P2.pdf
    - Phase 2: Presentation deck (slides, SQL statements, screenshots, test cases)
 
 4. Installation_Manual.pdf
@@ -42,18 +41,10 @@ CONTENTS OF THIS FOLDER
 8. airbnb.sql
    - Self-contained MySQL script that creates the AirbnbDB database
 
-9. 20250628_Zubair_Khan_92127983_DLBDSPBDM01_P3.pdf
+9. 20260729_Zubair_Khan_92127983_DLBDSPBDM01_P3.pdf
    - The single combined PDF for the portfolio
      (Phases 1, 2, and 3 merged into one file)
 
-
-WHERE TO SUBMIT WHAT
---------------------
-
-- PebblePad : upload 20250628_Zubair_Khan_92127983_DLBDSPBDM01_P3.pdf
-- ATLAS     : attach the dated PDFs (P1, P2, P3_Abstract) plus
-              Installation_Manual.pdf, SQL_Documentation.pdf,
-              Database_Metadata.pdf, and Final_Submission_Checklist.pdf
 
 
 HOW TO INSTALL THE DATABASE
